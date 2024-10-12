@@ -1,0 +1,20 @@
+{
+    "Bot_Token": "MTEyMzgyMTYwNTk5MTIzNTcxNA.Gwk9qN.N0-FFt6UBMZI4tQx-6bd4Pk-NybuRf8rZj3yac",
+    "Bot_Status": "balls",
+    "Guild_Id": "1123821512445673484",
+    "Logs_Channel_Id": "1125632210381307940",
+    "Report_Message_Channel_Id": "1131636011923939338",
+    "Welcome_Channel_Id": "1125632210381307940",
+    "Welcome_Message_Thumbnail_Url": "https://media.discordapp.net/attachments/1109625300226158663/1131361600872390697/Toxiferate-removebg-preview.png",
+    "Welcome_Message_Banner_Url": "https://media.discordapp.net/attachments/1109625300226158663/1131361600872390697/Toxiferate-removebg-preview.png",
+    "Departure_Message_Thumbnail_Url": "https://media.discordapp.net/attachments/1109625300226158663/1131361600872390697/Toxiferate-removebg-preview.png",
+    "Departure_Message_Banner_Url": "https://media.discordapp.net/attachments/1109625300226158663/1131361600872390697/Toxiferate-removebg-preview.png",
+    "Departure_Channel_Id": "1125632210381307940",
+    "Terms_Of_Service_Channel_Id": "1125632210381307939",
+    "Community_Rules_Channel_Id": "1125632210381307939",
+    "Ticket_System_Channel_Id": "1125632210381307939",
+    "Products_Channel_Id": "1125632210381307940",
+    "Server_Name": "Baka",
+    "Muted_Role_Name": "Muted",
+    "Member_Role_Name": "Bal"
+}
